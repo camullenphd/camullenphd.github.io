@@ -23,4 +23,4 @@ COMING SOON
 
 Catherine Mullen (she/her)
 Email: <catmulle@indiana.edu>
-Twitter: [@cammamls] (https://twitter.com/cammamls)
+Twitter: [@cammamls](https://twitter.com/cammamls)
