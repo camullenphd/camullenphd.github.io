@@ -22,5 +22,7 @@ COMING SOON
 **How to contact me**
 
 Catherine Mullen (she/her)
+
 Email: <catmulle@indiana.edu>
+
 Twitter: [@cammamls](https://twitter.com/cammamls)
