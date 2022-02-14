@@ -18,7 +18,7 @@ The extent of MDMA's archival content and its growth since launching as a user-g
 
 **Figure 4** (LINK), a stacked bar graph comparing the sum of artifacts uploaded to the dates of upload, demonstrates how and where the archive's holdings have grown by examining tag types and separating tags into popularity segments within type. On this page, you can learn more about how growth occurs and the methods for determining popularity within type.
 
-***Exploring Archival Content through User Networks***
+***Examining Archival Content through User Networks***
 
 Archival content can also be examined by how it connects to other content through users. In part of Chapter 2, I look at how certain subject matter is emphasized as "popular" by highlighting eigenvector centrality statistics as a measure of popularity and illustrating how different groups of users interact with and contribute to MDMA's database through network visualizations. Divided into five user groups determined by how much users upload to the archive, these networks show how users demonstrate their interests by creating their own networks of tags that represent varying subject matters.
 
