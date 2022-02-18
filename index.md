@@ -24,15 +24,15 @@ Archival content can also be examined by how it connects to other content throug
 
 Clicking through the links below, you can explore the different user groups and how certain tags are connected to particular users. The five user groups make up distinct user personas within the archive, demonstrating differing identities of archival participation. Each user group was determined by a box and whisker plot measuring the amount of uploads per user, with the final user group being split in two to better represent those only uploading a few items to the archive.
 
-**Figure 5**(LINK) represents User Group 1, made up of 8 users who each uploaded 304 or more artifacts to the archive. This group includes a select few archival megausers who have uploaded in bulk over time.
+[Figure 5](https://camullenphd.github.io/network/?dataset=UserOne#/) represents User Group 1, made up of 8 users who each uploaded 304 or more artifacts to the archive. This group includes a select few archival megausers who have uploaded in bulk over time.
 
-**Figure 6**(LINK) represents User Group 2, made up of 20 less extreme users who each uploaded between 118-303 artifacts.
+[Figure 6](https://camullenphd.github.io/network/?dataset=UserThree#/) represents User Group 2, made up of 20 less extreme users who each uploaded between 118-303 artifacts.
 
-**Figure 7**(LINK) represents User Group 3, made up of 66 moderate users who each uploaded between 28-117 artifacts.
+[Figure 7](https://camullenphd.github.io/network/?dataset=UserFour#/) represents User Group 3, made up of 66 moderate users who each uploaded between 28-117 artifacts.
 
-**Figure 8**(LINK) represents User Group 4, made up of 133 occassional participant users who each uploaded between 10-27 artifacts.
+[Figure 8](https://camullenphd.github.io/network/?dataset=UserFive#/) represents User Group 4, made up of 133 occassional participant users who each uploaded between 10-27 artifacts.
 
-**Figure 9**(LINK) represents User Group 5, made up of 572 users who each uploaded between 1-9 artifacts. This group includes users who can be characterized as sporadic or single-entry participants who have uploaded the least amount of artifacts, but make up the bulk of MDMA's userbase.
+[Figure 9](https://camullenphd.github.io/network/?dataset=UserTwo#/) represents User Group 5, made up of 572 users who each uploaded between 1-9 artifacts. This group includes users who can be characterized as sporadic or single-entry participants who have uploaded the least amount of artifacts, but make up the bulk of MDMA's userbase.
 
 
 **How to contact me**
