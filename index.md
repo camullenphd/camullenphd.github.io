@@ -14,9 +14,9 @@ Chapter 2 looks at the purpose and usage of MDMA's digital archive by engaging i
 
 The extent of MDMA's archival content and its growth since launching as a user-generated archive help to understand what subject matter is prevalent in the archive and how archival expansion has occurred over time.
 
-**Figure 3** (LINK), a bubble chart showing the popularity of the tags included in the data set, illustrates the proportion of tagged items associated with particular tags and tag types in the archive. Click through to read more about the bubble chart.
+[Figure 3](https://camullenphd.github.io/figure3/), a bubble chart showing the popularity of the tags included in the data set, illustrates the proportion of tagged items associated with particular tags and tag types in the archive. Click through to read more about the bubble chart.
 
-**Figure 4** (LINK), a stacked bar graph comparing the sum of artifacts uploaded to the dates of upload, demonstrates how and where the archive's holdings have grown by examining tag types and separating tags into popularity segments within type. On this page, you can learn more about how growth occurs and the methods for determining popularity within type.
+[Figure 4](https://camullenphd.github.io/figure4/), a stacked bar graph comparing the sum of artifacts uploaded to the dates of upload, demonstrates how and where the archive's holdings have grown by examining tag types and separating tags into popularity segments within type. On this page, you can learn more about how growth occurs and the methods for determining popularity within type.
 
 ***Examining Archival Content through User Networks***
 
