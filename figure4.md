@@ -6,3 +6,5 @@ permalink: /figure4/
 ### Figure 4: Archival Growth Stacked Bar Graph
 
 **Figure 4** 
+
+![Archival Growth](/assets/img/ArchivalGrowth.png)
