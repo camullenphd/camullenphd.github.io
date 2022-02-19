@@ -7,3 +7,4 @@ permalink: /figure3/
 
 **Figure 3** 
 
+![Bubble Chart](/assets/img/BubbleChart.png)
