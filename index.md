@@ -28,13 +28,13 @@ Clicking through the links below, you can explore the different user groups and 
 
 [Figure 5](https://camullenphd.github.io/network/?dataset=UserOne#/) represents User Group 1, made up of 8 users who each uploaded 304 or more artifacts to the archive. This group includes a select few archival megausers who have uploaded in bulk over time.
 
-[Figure 6](https://camullenphd.github.io/network/?dataset=UserThree#/) represents User Group 2, made up of 20 less extreme users who each uploaded between 118-303 artifacts.
+[Figure 6](https://camullenphd.github.io/network/?dataset=UserTwo#/) represents User Group 2, made up of 20 less extreme users who each uploaded between 118-303 artifacts.
 
-[Figure 7](https://camullenphd.github.io/network/?dataset=UserFour#/) represents User Group 3, made up of 66 moderate users who each uploaded between 28-117 artifacts.
+[Figure 7](https://camullenphd.github.io/network/?dataset=UserThree#/) represents User Group 3, made up of 66 moderate users who each uploaded between 28-117 artifacts.
 
-[Figure 8](https://camullenphd.github.io/network/?dataset=UserFive#/) represents User Group 4, made up of 133 occassional participant users who each uploaded between 10-27 artifacts.
+[Figure 8](https://camullenphd.github.io/network/?dataset=UserFour#/) represents User Group 4, made up of 133 occassional participant users who each uploaded between 10-27 artifacts.
 
-[Figure 9](https://camullenphd.github.io/network/?dataset=UserTwo#/) represents User Group 5, made up of 572 users who each uploaded between 1-9 artifacts. This group includes users who can be characterized as sporadic or single-entry participants who have uploaded the least amount of artifacts, but make up the bulk of MDMA's userbase.
+[Figure 9](https://camullenphd.github.io/network/?dataset=UserFive#/) represents User Group 5, made up of 572 users who each uploaded between 1-9 artifacts. This group includes users who can be characterized as sporadic or single-entry participants who have uploaded the least amount of artifacts, but make up the bulk of MDMA's userbase.
 
 
 **How to contact me**
