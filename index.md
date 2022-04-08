@@ -24,7 +24,7 @@ Archival content can also be examined by how it connects to other content throug
 
 Clicking through the links below, you can explore the different user groups and how certain tags are connected to particular users. The five user groups make up distinct user personas within the archive, demonstrating differing identities of archival participation. Each user group was determined by a box and whisker plot measuring the amount of uploads per user, with the final user group being split in two to better represent those only uploading a few items to the archive. The following video walkthrough explains how to navigate the networks.
 
-==Video Walkthrough==
+<iframe title="Networks Walkthrough" src="https://purl.dlib.indiana.edu/iudl/media/484z50pp8n?urlappend=%2Fembed" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Figure 5](https://camullenphd.github.io/network/?dataset=UserOne#/) represents User Group 1, made up of 8 users who each uploaded 304 or more artifacts to the archive. This group includes a select few archival megausers who have uploaded in bulk over time.
 
