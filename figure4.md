@@ -13,4 +13,4 @@ The width of each band shows the expansion of each group over time, to a point i
 
 The following video walkthrough talks more about how to understand and navigate this archival growth graph.
 
-*VIDEO WALKTHROUGH*
+<iframe title="Archival Growth Walkthrough" src="https://purl.dlib.indiana.edu/iudl/media/g15b39f37z?urlappend=%2Fembed" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
