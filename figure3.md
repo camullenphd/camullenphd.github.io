@@ -11,4 +11,4 @@ Archival use and growth are represented not only by the number of artifacts cont
 
 The following video walkthrough further demonstrates what data informs the bubble chart and talks about how this information contributes to an understanding of MDMA's content.
 
-*VIDEO WALKTHROUGH*
+<iframe title="Bubble Chart Walkthrough" src="https://purl.dlib.indiana.edu/iudl/media/465544j641?urlappend=%2Fembed" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
